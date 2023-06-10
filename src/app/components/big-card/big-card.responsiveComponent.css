@@ -1,0 +1,24 @@
+@media screen and (min-width: 380px) {
+    .container__big-card {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 576px) {
+    .container__big-card {
+        width: 100%;
+    }
+}
+
+
+@media screen and (min-width: 992px) {
+    .container__big-card {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 1064px) {
+    .container__big-card {
+        width: 400px;
+    }
+}

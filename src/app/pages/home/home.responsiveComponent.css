@@ -1,0 +1,27 @@
+@media screen and (min-width: 380px) {
+    .container__articles {
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width: 576px) {
+    .container__articles {
+        flex-direction: column;
+    }
+   
+}
+
+
+@media screen and (min-width: 992px) {
+    .container__articles {
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width: 1064px) {
+    .container__articles {
+        flex-direction: row;
+    }
+}
+
+
